@@ -10,3 +10,8 @@ Covered in the live demo:
 * Adding static and mixed lights to a scene
 * Adding lighting probes
 * Adjusting Light settings for baking lightmaps
+
+Bonus items!
+* Swapping out the player for Kingpin
+* Adjusting Kingpin's size in the scene
+* Figuring out how to make adjustments to the third person camera rig
